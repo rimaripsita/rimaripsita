@@ -4,11 +4,11 @@
 ## 🎓 Certifications  
 Here are some of my professional certifications:  
 
-- 🏆 **AWS Certified Cloud Practitioner** – [View Certificate](https://drive.google.com/file/d/1FyM2MilrUOFp6XjlC5abtMlgGUogksBx/view?usp=sharing) *(Amazon Web Services, Month Year)*  
-- ☁ **Microsoft Certified: Azure Fundamentals** – [View Certificate](https://drive.google.com/file/d/1nad8tgEJyWDYJjBuPMPRzsBpsvZSJXT7/view?usp=sharing) *(Microsoft, Month Year)*  
-- 📊 **Kaggle Certifications in Advanced SQL** – [View Certificate](https://drive.google.com/file/d/1ErRxz88wUE9JmKf09gmG_99z0oHHcLCV/view?usp=sharing) *(Kaggle, Month Year)*  
-- 🤖 **Machine Learning Internship** – [View Certificate](https://drive.google.com/file/d/1j-p1sM-K8YbsLGrk3KGS8sqWC_PfUid9/view?usp=sharing) *(Teachnook, Month Year)*  
-- 🐍 **Python Programming Internship** – [View Certificate](https://drive.google.com/file/d/15ee1XAYOqilbXoxNWvAp27UBvW0Wyps9/view?usp=sharing) *(Internpe, Month Year)*
+- 🏆 **AWS Certified Cloud Practitioner** – [View Certificate](https://drive.google.com/file/d/1FyM2MilrUOFp6XjlC5abtMlgGUogksBx/view?usp=sharing) *(Amazon Web Services )* 
+- ☁ **Microsoft Certified: Azure Fundamentals** – [View Certificate](https://drive.google.com/file/d/1nad8tgEJyWDYJjBuPMPRzsBpsvZSJXT7/view?usp=sharing) *(Microsoft)*  
+- 📊 **Kaggle Certifications in Advanced SQL** – [View Certificate](https://drive.google.com/file/d/1ErRxz88wUE9JmKf09gmG_99z0oHHcLCV/view?usp=sharing) *(Kaggle)*  
+- 🤖 **Machine Learning Internship** – [View Certificate](https://drive.google.com/file/d/1j-p1sM-K8YbsLGrk3KGS8sqWC_PfUid9/view?usp=sharing) *(Teachnook)*  
+- 🐍 **Python Programming Internship** – [View Certificate](https://drive.google.com/file/d/15ee1XAYOqilbXoxNWvAp27UBvW0Wyps9/view?usp=sharing) *(Internpe)*
 - 
 
 ## 🔗 Connect with Me  
