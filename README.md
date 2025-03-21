@@ -1,16 +1,21 @@
 ## Hi there 👋
+# 👋 Hi, I'm [Rima Ripsita Padhi]  
+
+## 🎓 Certifications  
+Here are some of my professional certifications:  
+
+- 🏆 **AWS Certified Cloud Practitioner** – [View Certificate](https://drive.google.com/file/d/1FyM2MilrUOFp6XjlC5abtMlgGUogksBx/view?usp=sharing) *(Amazon Web Services, Month Year)*  
+- ☁ **Microsoft Certified: Azure Fundamentals** – [View Certificate](https://drive.google.com/file/d/1nad8tgEJyWDYJjBuPMPRzsBpsvZSJXT7/view?usp=sharing) *(Microsoft, Month Year)*  
+- 📊 **Kaggle Certifications in Advanced SQL** – [View Certificate](https://drive.google.com/file/d/1ErRxz88wUE9JmKf09gmG_99z0oHHcLCV/view?usp=sharing) *(Kaggle, Month Year)*  
+- 🤖 **Machine Learning Internship** – [View Certificate](https://drive.google.com/file/d/1j-p1sM-K8YbsLGrk3KGS8sqWC_PfUid9/view?usp=sharing) *(Teachnook, Month Year)*  
+- 🐍 **Python Programming Internship** – [View Certificate](https://drive.google.com/file/d/15ee1XAYOqilbXoxNWvAp27UBvW0Wyps9/view?usp=sharing) *(Internpe, Month Year)*
+- 
+
+## 🔗 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/rimaripsita)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rima-r-padhi01)  
 
 <!--
-**rimaripsita/rimaripsita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rimaripsita/rimaripsita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
